@@ -4,7 +4,7 @@
 - **NIM:** 240103018
 - **Program Studi:** Bisnis Digital
 - **Nama UMKM:** Dapur Rasa Medan
-- **Link Website:** https://thomiesm.github.io/website-umkm-dapur-rasa/kontak.html)
+- **Link Website:** https://thomiesm.github.io/website-umkm-dapur-rasa)
 ## Deskripsi
 
 Dapur Rasa Medan merupakan UMKM kuliner fiktif yang menyediakan makanan rumahan, camilan, dan paket makanan.
